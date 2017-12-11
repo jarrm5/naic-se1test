@@ -1,7 +1,7 @@
 # NAIC Software Engineer I candidate test
 
 ## Description
-This test is meant to test a candidates skills as pertains to an Software Engineer I at the NAIC
+This test is meant to test a candidates skills as pertain's to a Software Engineer I at the NAIC
 
 ## Googling Test
 Being able to Google is one of the most important skills a developer can have.  Being able to Google efficiently and 
@@ -31,7 +31,7 @@ display "true" otherwise display "false"
 https://en.wikipedia.org/wiki/Anagram
 
 ## Finally 
-Check in your code to GitHub under your own account and send the link to the interviewer
+Check in your code to GitHub under your own account and send the link to the interviewer.
 This project should include:
  * the README.md with your search terms
  * The correct class from the debugging section
