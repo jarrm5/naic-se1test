@@ -11,8 +11,11 @@ Include in your project a README.md file that includes the search terms you used
 the following questions
 
 1. You need to determine how to open a file in Java 1.5
+   java 1.5 how to open files
 2. You need to determine how to find a directory via Java 8
+   java 8 find directory
 3. You need to format a String
+   java 8 string formatting methods
 
 ## Debugging Test
 Debugging to determine where an issue is something every developer needs to do.
